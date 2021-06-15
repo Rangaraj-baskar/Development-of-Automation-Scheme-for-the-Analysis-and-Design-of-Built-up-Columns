@@ -1,5 +1,5 @@
 # Development-of-Automation-Scheme-for-the-Analysis-and-Design-of-Built-up-Columns
-My Internship Project completely codded in MATLAB.
+My Internship Project completely coded in MATLAB.
 This project was done as part of the Internship carried out in IIT Madras in the summer break on 2021
 
 The file section_properties.m contains the code for finding sectional properties of thin-walled structures.
